@@ -18,6 +18,9 @@
 }
 
 /* display background dark color on navbar scroll */
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
+}
 .navbarScroll.navbarDark {
   background-color: #5b5b5b;
 }
