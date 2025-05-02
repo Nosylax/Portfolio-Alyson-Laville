@@ -17,6 +17,14 @@
   padding-bottom: 4rem;
 }
 
+a:hover {
+  color: #008000;
+}
+
+a {
+  text-decoration: none;
+  color: var(--bs-body-color);
+}
 /* display background dark color on navbar scroll */
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 1);
@@ -29,7 +37,7 @@
 .bgimage {
   height: 100vh;
   max-height: 900px;
-  background: url("images/image1.webp");
+  background: url("images/banner.jpg");
   background-size: cover;
   position: relative;
 }
@@ -51,13 +59,17 @@
 
 /* about */
 .imageAboutPage {
-  width: 100%;
+  width: 70%;
 }
 .imageAboutPage {
   border-radius: 50%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
+.col-lg-8 {
+  --bs-gutter-x: 14.5rem;
+  display: flex;
+}
 /* skills */
 .skillsText.card {
   height: 350px;
@@ -89,6 +101,18 @@
 /* portfolio */
 #portfolio p {
   text-align: center;
+}
+
+.card-img-top {
+  height: 175px;
+}
+
+.card-text {
+  height: 280px;
+}
+
+.card-body {
+  height: 407px;
 }
 
 /* contact */
