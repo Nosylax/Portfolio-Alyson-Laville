@@ -37,7 +37,7 @@ a {
 .bgimage {
   height: 100vh;
   max-height: 900px;
-  background: url("images/banner.jpg");
+  background: url("images/banner.webp");
   background-size: cover;
   position: relative;
 }

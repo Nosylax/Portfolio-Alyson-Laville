@@ -7,7 +7,7 @@
         "more": "https://nosylax.github.io/BOOKI/"
     },
     {
-        "image": "SophieBluel.png",
+        "image": "SophieBluel.webp",
         "title": "Sophie Bluel",
         "text": "Dans ce projet, jai créé une page web dynamique pour le site d'une architecte dintérieur en utilisant JavaScript et en intégrant une API. Jai développé la page de présentation des travaux de larchitecte, une page de connexion pour ladministrateur, et une modale pour uploader de nouveaux médias. Ce projet ma permis de perfectionner mes compétences en manipulation du DOM, gestion des événements utilisateurs, et communication avec une API, tout en utilisant des outils comme Figma, Visual Studio Code, et GitHub.",
         "link": "https://github.com/Nosylax/Portfolio-architecte-sophie-bluel"
